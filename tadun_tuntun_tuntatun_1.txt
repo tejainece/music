@@ -1,0 +1,1 @@
+{"instruments":{"0":{"volume":1,"delay":false,"reverb":false},"2":{"volume":1,"delay":false,"reverb":false},"8":{"volume":1,"delay":false,"reverb":false},"17":{"volume":1,"delay":false,"reverb":false}}}|60|0 C7 1 0;1 D7 1 0;3 C7 1 0;5 A#6 1 0;8 G6 1 0;10 A#6 1 0;11 G6 1 0;13 F6 1 0;16 F6 1 0;17 G6 1 0;19 F6 1 0;24 C7 1 0;21 D7 1 0;23 D7 1 0;

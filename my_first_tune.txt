@@ -1,0 +1,1 @@
+{"instruments":{"0":{"volume":1,"delay":false,"reverb":false},"1":{"volume":1,"delay":false,"reverb":false},"4":{"volume":1,"delay":false,"reverb":false},"5":{"volume":1,"delay":false,"reverb":false}}}|110|4 B4 1 5;6 D5 1 5;8 A4 1 5;10 G4 1 5;16 A4 1 5;18 G4 1 5;24 A4 1 5;26 G4 2 5;4 G4 1 5;6 B4 1 5;29 G2 1 5;31 G2 1 5;32 F2 1 5;
